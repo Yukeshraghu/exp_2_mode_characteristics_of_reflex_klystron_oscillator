@@ -69,7 +69,7 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Observation
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe98d61b-85e3-4e9c-8e04-6263a953dfdd" />
+<img width="994" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e14e825-9551-46c0-af5f-145780960b5d" />
 
 
 ## Graph
